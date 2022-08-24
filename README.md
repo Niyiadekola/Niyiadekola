@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niyiadekola, you might recognize me as @github's niyi. 
 - 👀 I’m interested in working on something cool. 
 - 🌱 I’m currently learning with help from docs.github.com 
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ask me about GitHub
 - 📫 How to reach me ... 
 
 <!---
